@@ -1,2 +1,2 @@
-# troll-bash
-react app -  been using vue for a while ,adding react to the list .just thought a game would be the best way approach it
+# trollBash
+react app- getting comfortable with react after quiet a while with vue  through a game
