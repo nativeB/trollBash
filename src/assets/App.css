@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.box-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  max-height: 90vh;
+  max-width: 90vw;
+  flex-wrap: wrap;
+  overflow: hidden;
+  min-height: 50vh;
+  /*margin: 100px 200px;*/
+  cursor: url("https://www.dropbox.com/s/th0zd8ufw5xkwye/mallet.png?raw=1"), pointer
+}
+
+.boxes{
+  width:100px;
+  height: 100px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.boxes-show{
+  visibility: visible;
+  background-image: url("troll.jpg");
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+}
+.boxes-hide{
+  visibility: hidden;
+}
+.boxes-win{
+  background: red !important;
+}
+
+.score{
+  padding: 10px 40px;
+  background: tan;
+}
+.menu{
+  display: flex;
+  flex-direction: row;
+}
+
+.colorStart{
+  color:black;
+}
+.colorStop{
+  color:red;
+}
+h2{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
