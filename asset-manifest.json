@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nativeB/trollBash.git/static/css/main.a7ee08e4.chunk.css",
-    "main.js": "/nativeB/trollBash.git/static/js/main.cb4ffb1b.chunk.js",
-    "main.js.map": "/nativeB/trollBash.git/static/js/main.cb4ffb1b.chunk.js.map",
-    "runtime~main.js": "/nativeB/trollBash.git/static/js/runtime~main.1af8149a.js",
-    "runtime~main.js.map": "/nativeB/trollBash.git/static/js/runtime~main.1af8149a.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/nativeB/trollBash.git/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/nativeB/trollBash.git/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/nativeB/trollBash.git/index.html",
-    "precache-manifest.9fcccd83c5340998ce636d7a228d1367.js": "/nativeB/trollBash.git/precache-manifest.9fcccd83c5340998ce636d7a228d1367.js",
-    "service-worker.js": "/nativeB/trollBash.git/service-worker.js",
-    "static/css/main.a7ee08e4.chunk.css.map": "/nativeB/trollBash.git/static/css/main.a7ee08e4.chunk.css.map",
-    "static/media/App.css": "/nativeB/trollBash.git/static/media/troll.dc5366dd.jpg"
+    "main.css": "/trollBash/static/css/main.42cfd512.chunk.css",
+    "main.js": "/trollBash/static/js/main.285beb79.chunk.js",
+    "main.js.map": "/trollBash/static/js/main.285beb79.chunk.js.map",
+    "runtime~main.js": "/trollBash/static/js/runtime~main.9df5fa3d.js",
+    "runtime~main.js.map": "/trollBash/static/js/runtime~main.9df5fa3d.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/trollBash/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/trollBash/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/trollBash/index.html",
+    "precache-manifest.d03adac0166b19f1e208db4187011955.js": "/trollBash/precache-manifest.d03adac0166b19f1e208db4187011955.js",
+    "service-worker.js": "/trollBash/service-worker.js",
+    "static/css/main.42cfd512.chunk.css.map": "/trollBash/static/css/main.42cfd512.chunk.css.map",
+    "static/media/App.css": "/trollBash/static/media/troll.dc5366dd.jpg"
   }
 }
